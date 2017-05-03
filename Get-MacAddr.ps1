@@ -16,8 +16,8 @@ $file="$home\desktop\$username.txt"
 
 #ftp server
 $ftp="ftp://10.0.0.27/"
-$user="xuliang"
-$pass="yb0HrIHhqEcpEZr5Ftmr"
+$user="username"
+$pass="pwd"
 
 $webclient = New-Object System.Net.WebClient 
  
